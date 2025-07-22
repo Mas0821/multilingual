@@ -1,0 +1,9 @@
+# dir
+/private_dir
+
+# file -- example: config.ini
+private_log.md
+
+# log -- example: *.log
+
+# Package Files -- example: *.jar
