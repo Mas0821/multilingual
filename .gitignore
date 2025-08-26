@@ -1,8 +1,8 @@
 # dir
-/private_dir
+/private_*
 
 # file -- example: config.ini
-private_log.md
+private_*.md
 
 # log -- example: *.log
 
