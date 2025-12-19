@@ -3,6 +3,7 @@
 
 # file -- example: config.ini
 private_*.md
+*.obsidian 
 
 # log -- example: *.log
 
