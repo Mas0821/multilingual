@@ -4,6 +4,8 @@
 # file -- example: config.ini
 private_*.md
 *.obsidian 
+*.trash
+*.base
 
 # log -- example: *.log
 
