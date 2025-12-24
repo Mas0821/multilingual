@@ -1,5 +1,6 @@
 # dir
 /private_*
+/Ink
 
 # file -- example: config.ini
 private_*.md
