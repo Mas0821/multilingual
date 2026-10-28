@@ -1,0 +1,1 @@
+将形如 *word* 标注的词语以“| English | Russian | Brief Chinese explanation |”的形式整理到符合md格式的表格，执行同义词合并到一项、去重。
